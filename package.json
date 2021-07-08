@@ -18,8 +18,8 @@
     "publish": "npm publish"
   },
   "dependencies": {
-    "grapesjs": "^0.14.55",
-    "vue": "^2.6.6"
+    "grapesjs": "^0.17.19",
+    "vue": "^2.6.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
