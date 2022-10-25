@@ -1,6 +1,6 @@
 {
   "name": "vue-grapesjs",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": false,
   "main": "dist/vue-grapesjs.common.js",
   "files": [
@@ -18,7 +18,7 @@
     "publish": "npm publish"
   },
   "dependencies": {
-    "grapesjs": "^0.17.19",
+    "grapesjs": "^0.20.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
